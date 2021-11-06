@@ -20,6 +20,7 @@ YEOW JIAN CHENG 1171202978
 Our project is a BIM calculator who can help people to detect their current BMI. 
 
 Below is some Introduction about how to use our BMI calculator and what functions included. 
+![1](https://user-images.githubusercontent.com/87030020/140627200-7b713aa2-5764-4a94-b0b0-838f311ca0e5.png)
 
 
 
