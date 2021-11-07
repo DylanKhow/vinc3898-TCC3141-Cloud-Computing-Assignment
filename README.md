@@ -22,6 +22,7 @@ Our project is a BIM calculator who can help people to detect their current BMI.
 
 # User Guidelines
 Below is some Introduction about how to use our BMI calculator and what functions included. 
+
 ![12e12](https://user-images.githubusercontent.com/87030020/140627227-78011d90-a8b9-47e0-846a-a4242238a0ed.png)
 1. In order to use this app, you will have to register for an account first, you can just create an account by entering your username and password. Once you complete all this step, you should be directly bring into the main page. 
 ![123123234](https://user-images.githubusercontent.com/87030020/140627342-62b50f0c-96ef-4aba-9998-52db2e408259.png)
