@@ -33,5 +33,5 @@ Below is some Introduction about how to use our BMI calculator and what function
 ![rgwGWGRW](https://user-images.githubusercontent.com/87030020/140627400-1b5237ec-a258-4263-8040-32b51db96ba7.png)
 
 # Motivation
-We create this project is on the purpose 
+We create this application is on the purpose to make people understand their healthy status, by using our application, everyone can know what are their status currently, and not only that, only showing the BMI result doesn't help anyone, hence we have add a suggestion function to make know what they can currently to prevent any healthy attack. 
 
